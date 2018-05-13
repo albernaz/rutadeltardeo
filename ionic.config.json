@@ -2,5 +2,9 @@
   "name": "rutadeltardeo",
   "app_id": "883573f0",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {
+      "enabled": false
+    }
+  }
 }
